@@ -15,6 +15,12 @@ Here on my GitHub, you'll find a collection of Javascript, Java, C++ that I've w
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dungntt2003)](https://github.com/Dungntt2003/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dungntt2003)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=Dungntt2003)
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Dungntt2003}&theme={}
+
 ## Get in Touch
 
 If you'd like to connect, you can find me on: (update)
