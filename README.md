@@ -19,7 +19,7 @@ Here on my GitHub, you'll find a collection of Javascript, Java, C++ that I've w
 
 ![](https://komarev.com/ghpvc/?username=Dungntt2003)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Dungntt2003}&theme={}
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dungntt2003&theme=vue)
 
 ## Get in Touch
 
