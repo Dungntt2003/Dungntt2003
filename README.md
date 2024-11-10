@@ -3,7 +3,7 @@
 Hi there! I'm Dung
 ## About Me
 
-I'm a 3-year student in HUST with a passion for fullstack engineer. I have experience in ReactJs, NodeJs, Java, C++ and I'm always eager to learn new things.
+I'm a 4-year student in HUST with a passion for fullstack engineer. I have experience in ReactJs, NodeJs, Java, C++ and I'm always eager to learn new things.
 
 ## What I Do
 
